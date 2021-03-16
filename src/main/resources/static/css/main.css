@@ -1,0 +1,235 @@
+lyte-table { font-family: "Open Sans Regular" !important; }
+lyte-input input { font-family: "Open Sans Regular" !important; }
+lyte-input textarea { font-family: "Open Sans Regular" !important; }
+lyteCalendarPopup { font-family: "Open Sans Regular" !important; }
+lyte-calculator{ font-family: "Open Sans Regular" !important; }
+lyte-radiobutton{ font-family: "Open Sans Regular" !important; }
+lyte-drop-box{ font-family: "Open Sans Regular" !important; }
+lyte-dropdown{ font-family: "Open Sans Regular" !important; }
+lyte-drop-label{ font-family: "Open Sans Regular" !important; }
+lyte-file-message { font-family: "Open Sans Regular" !important; }
+lyte-file-select-area{ font-family: "Open Sans Regular" !important; }
+lyte-fileupload{ font-family: "Open Sans Regular" !important; }
+lyte-drop-item .lyteAutoComplete{ font-family: "Open Sans Regular" !important; }
+lyte-modal-header{ font-family: "Open Sans Regular" !important; }
+lyte-gridstack{ font-family: "Open Sans Regular" !important; }
+lyte-input{ font-family: "Open Sans Regular" !important; }
+lyte-input .lyteLabel{ font-family: "Open Sans Regular" !important; }
+lyte-input input{ font-family: "Open Sans Regular" !important; }
+lyte-input textarea{ font-family: "Open Sans Regular" !important; }
+lyte-input input::placeholder{ font-family: "Open Sans Regular" !important; }
+lyte-input input::-ms-input-placeholder{ font-family: "Open Sans Regular" !important; }
+lyte-input input:-ms-input-placeholder{ font-family: "Open Sans Regular" !important; }
+lyte-input textarea::placeholder{ font-family: "Open Sans Regular" !important; }
+lyte-input textarea:-ms-input-placeholder{ font-family: "Open Sans Regular" !important; }
+lyte-input textarea::-ms-input-placeholder{ font-family: "Open Sans Regular" !important; }
+lyte-menu-box{ font-family: "Open Sans Regular" !important; }
+lyte-menu-header { font-family: "Open Sans Regular" !important; }
+lyte-navigator{ font-family: "Open Sans Regular" !important; }
+lyte-step{ font-family: "Open Sans Regular" !important; }
+lyte-popover-header{ font-family: "Open Sans Regular" !important; }
+lyte-tabs{ font-family: "Open Sans Regular" !important; }
+lyte-tree-icon.open .treeValue{ font-family: "Open Sans Regular" !important; }
+lyte-counter{ font-family: "Open Sans Regular" !important; }
+lyte-table.border lyte-th{ font-family: "Open Sans Regular" !important; }
+lyte-table.border lyte-td{ font-family: "Open Sans Regular" !important; }
+lyte-td{ font-family: "Open Sans Regular" !important; }
+lyte-drop-box{ font-family: "Open Sans Regular" !important; }
+lyte-th { font-family: "Open Sans Regular" !important; }
+lyte-checkbox { font-family: "Open Sans Regular" !important; }
+.alertHeader, .alertPrimaryMsg, lyte-alert-header { font-family: "Open Sans Regular" !important; }
+.alertSecondaryMsg, lyte-alert-content { font-family: "Open Sans Regular" !important; }
+
+.lyteColorbox{ font-family: "Open Sans Regular" !important; }
+.lyteStepBullet lyte-step-body{ font-family: "Open Sans Regular" !important; }
+.lyteColorPicker__showhidecontainer{ font-family: "Open Sans Regular" !important; }
+.lyteTableSortHelper{ font-family: "Open Sans Regular" !important; }
+.lyteModal{ font-family: "Open Sans Regular" !important; }
+.lyteColorboxTitle{ font-family: "Open Sans Regular" !important; }
+.lyteTooltip, .lytePopover{ font-family: "Open Sans Regular" !important; }
+.lyteProgressBar .lyteProgressPercentage{ font-family: "Open Sans Regular" !important; }
+.noChildClass lyte-tree-icon.open .treeValue{ font-family: "Open Sans Regular" !important; }
+.lyteCircleType svg{ font-family: "Open Sans Regular" !important; }
+.lyteMIWrapper textarea{ font-family: "Open Sans Regular" !important; }
+.lyteMIDropdown lyte-mentions-item{ font-family: "Open Sans Regular" !important; }
+.lyteMIDropdown{ font-family: "Open Sans Regular" !important; }
+.lyteDateRangePickerRow{ font-family: "Open Sans Regular" !important; }
+.treeValue{ font-family: "Open Sans Regular" !important; }
+.lyteMessageBoxContent{ font-family: "Open Sans Regular" !important; }
+.lyteRangeSlider .lyteScaleLine .lyteScalLable { font-family: "Open Sans Regular" !important; }
+.lyteModal { font-family: "Open Sans Regular" !important; box-shadow: -5px 7px 10px rgba(0,0,0,0.01) !important;}
+
+lyte-tbody lyte-tr:hover { background: #f9f9fd !important; }
+lyte-tbody lyte-tr:hover lyte-td { background: #f9f9fd !important; }
+lyte-table { transform: translate3d(0,0,0); }
+lyte-table.border lyte-th:hover { border-right: 1px solid #ebedf2 !important; }
+lyte-table.border lyte-th, lyte-th {
+    font-size: 0.8125rem !important;
+    text-transform: none !important;
+    padding:7px 15px !important;
+    color: #1b1b1b;
+    font-weight:600;
+    background: #fafafa !important;
+    border-bottom: 1px solid #ebedf2 !important;
+    padding:7px 15px !important;
+    border-top:  1px solid #ebedf2 !important;
+    border-left: none !important;
+    border-right: 1px solid transparent !important;
+}
+lyte-table.border lyte-td, lyte-td {
+    font-size: 0.8125rem !important;
+    padding:7px 15px !important;
+    border-bottom: 1px solid #f6f7f7 !important;
+    padding:7px 15px !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+lyte-td { color: #222e44 !important; }
+lyte-tablehead-resize { cursor: col-resize !important; }
+td lyte-dropdown:not([lt-prop-type="multiple"]):not([lt-prop-type="multisearch"]) lyte-drop-button { border: none !important; }
+lyte-table.border lyte-table-structure { border-right: none !important; }
+lyte-th[resize="enable"]:hover lyte-tablehead-resize::after { background: #e0e1e4 !important; }
+lyte-tablehead-resize::after { width:2px !important; }
+lyte-table.border .lyteTableScroll { border-right: none !important;}
+
+/** Lyte modal popup **/
+.lyteModal { overflow: visible !important;}
+.lytemenufreezelayer { background: none !important; }
+lyte-modal-freeze, .alertFreezeLayer { background: rgba(49, 51, 70, 0.2) !important; opacity: 1 !important; }
+lyte-modal-content { padding: 15px !important; font-size: 0.8125rem !important; }
+lyte-modal-header { padding:10px 15px !important; clear: both; position: relative; border-bottom: 1px solid #ebedf2; }
+lyte-modal-header h4 { margin-bottom: 0 !important; }
+lyte-modal-footer { background: #f4f5fa; padding: 15px !important;  clear: both; border-top: none;}
+lyte-menu-body { padding: 10px 0; }
+.lyte-modal-lg .lyteModal { width:1000px !important; }
+.lyte-modal-md .lyteModal { width:800px !important; }
+.lyte-modal-sm .lyteModal { width:500px !important; }
+.lyte-modal-xs .lyteModal { width:250px !important; }
+lyte-popover-header, lyte-popover-content, lyte-popover-footer { padding:10px 15px !important }
+
+/** Lyte menu **/
+lyte-menu-label, lyte-menu-item { font-size: 0.8125rem !important; }
+lyte-menu-item { padding: 2px 15px !important; }
+lyte-checkbox { font-size: 0.8125rem !important; }
+.lyteMenuSelection:before, .lyteDropdownSelection:before {
+    height: 28.5px !important;
+    /* width: 2px !important; */
+    width: 0px !important;
+    left: 0 !important;
+    top: 0 !important;
+}
+.lyte-table-first-col { padding-right: 0 !important; margin-right: 0 !important; min-width: 5px !important; width: 5px !important; }
+.lyte-table-first-col lyte-checkbox { width: 15px !important; }
+lyte-menu-header { font-weight: 600; }
+.lyteTooltip { z-index: 9999 !important; max-width: 500px !important; word-break: break-word; }
+
+/** Tabs accordion **/
+lyte-tab-title { font-size: 0.875rem !important; padding: 15px 5px 10px 5px !important; }
+.lyteTabDefaultTop lyte-tab-head, .lyteTabDefaultBottom lyte-tab-head { background: none !important; border:none !important; }
+.lyteTabDefaultTop lyte-tab-title.lyteTabActive { border-bottom: 2px solid; font-weight: 600; }
+.lyteTabDefaultTop lyte-tab-head { border-bottom: 1px solid #ebedf2 !important; }
+lyte-tab-body,
+.lyteTabDefaultLeft,
+.lyteTabDefaultRight,
+.lyteTabDefaultTop,
+.lyteTabDefaultBottom { border: none !important; }
+lyte-tab-content, lyte-tab-body { padding:0 !important; }
+lyte-search { width: 100%; }
+lyte-input > div { padding: 0; }
+
+/** Chart **/
+.canvas-property { box-shadow: none !important; border: none !important; background: none !important; }
+.legseries { height: auto !important; }
+.chartsubtitle { display: none;}
+
+/** Form components **/
+.lyteInput.vertical[lt-prop-type="search"] input, lyte-input[lt-prop-type="search"] input { padding-left:35px !important; }
+lyte-radiobutton input[type="radio"] { position: absolute; visibility: hidden; }
+lyte-radiobutton { /*margin-left: 5px;*/ }
+.lyteRadioBtn .lyteRadioLabel { font-size: 0.8125rem!important; }
+/*lyte-input input, lyte-input textarea { font-size: 0.8125rem!important; padding: 5px 10px !important; } for new design */
+.lyteInputBox.lyteInputFocus .lyteField { border: 1px solid !important; }
+.lyteInputBox input:focus, lyte-input textarea:focus { background: #f8fdff !important; }
+.lyteInput .lyteField { border-bottom: 1px solid #dfe1e8 !important; }
+input[type=checkbox].on-off-sw:focus+.lyteCheckSwitch { box-shadow: none !important; }
+input[type=checkbox].on-off-sw:checked:focus+.lyteCheckSwitch { box-shadow: none !important; }
+lyte-checkbox input[type=checkbox]:focus+.lyteCheckBoxDefault::before { box-shadow: none !important; }
+.lyteCalTableCell { font-size:13px !important; }
+.monthDD lyte-drop-button { font-size:15px !important; }
+#container-search-box lyte-input.vertical { float:left; }
+
+/** Dropdown **/
+lyte-dropdown, lyte-drop-box { font-size: 13px !important; }
+lyte-drop-item { font-size: 0.8125rem !important; padding:3px 24px 3px 10px !important; }
+lyte-drop-item[selected="true"]::before { background-image: none !important; }
+lyte-drop-item .lyte-drop-item-profile-pic { width: 30px; height: 30px; vertical-align: middle; margin-right: 5px; line-height: 0;}
+lyte-drop-item .lyte-drop-item-profile-pic img { border-radius: 100%; width: 25px; }
+lyte-dropdown { float: left; }
+#lyteDateSelect lyte-drop-item.specificDate::after { top:14px !important; }
+.twocol lyte-dropdown { width:100% !important; max-width: 100% !important; }
+.lyteCalendarView lyte-dropdown { float:none !important; }
+lyte-autocomplete lyte-dropdown lyte-drop-button { padding: 0 !important; }
+.passwordname lyte-drop-button { padding: 0 !important; }
+.passwordsPerPage lyte-drop-button { border: 1px solid #d5d9e2 !important; padding: 2px 25px 2px 7px !important; }
+.pagination-panel lyte-drop-button { float: left; }
+aside lyte-drop-button { padding: 3px 25px 4px 10px !important; }
+aside lyte-dropdown, aside lyte-drop-box { width: 100%; max-width: 197px; margin-left: 0 !important; }
+.form-field lyte-autocomplete { display: block !important; }
+.form-field lyte-dropdown { margin-left: 0; }
+.form-field .lyteInputBox > div { padding: 0; }
+.form-field lyte-input.vertical > div { border: 1px solid #d5d9e2; }
+/*.lyteField input[type="text"], .lyteField input[type="password"], .lyteField select, .lyteField textarea { border: none !important; }  for new design*/
+lyte-menu { display: none; }
+.lyteStatusIcon { display: none !important; }
+.alertPrimaryMsg {font-size: 0.8125rem !important; line-height: 25px; word-break: break-word; }
+.alertPopup { padding: 15px 15px 15px !important; }
+lyte-dropdown .lyteDummyEventContainer:focus lyte-drop-button.add-password-custom-dropdown { border: solid #ebedf2 !important; border-width: 0 0 1px 0 !important; }
+.draggable-element { cursor: pointer; }
+
+/** Steps **/
+.lyteStepBullet lyte-step-item { min-width:150px !important; max-width:220px!important; z-index: 0; }
+lyte-drop-button{ padding: 4px 25px 4px 10px !important; }
+#password-view-option lyte-drop-button .iconFilter { position: absolute; left: 9px; top: 5px; }
+.passwords-filter-row lyte-th { font-weight:normal !important; }
+
+/** Slider **/
+.lyteRangeSlider { height: 3px !important; }
+.lyteCircle.lyteSliderHandler,
+.lyteSquare.lyteSliderHandler { width: 10px !important; height: 10px !important; top: -6px !important; }
+
+.subMenuPresent:after {
+    content: "\68";
+    font-size: 10px;
+    position: absolute;
+    top: calc(50% - 12px);
+    right: 10px;
+    opacity: 0.6;
+}
+
+.add-password-row-group .form-group lyte-dropdown { margin-left: 0 !important; }
+.add-password-row-group lyte-drop-button lyte-input input,
+.add-password-row-group lyte-drop-button lyte-input textarea { padding: 0 !important; }
+.add-password-row-group lyte-drop-button lyte-input > div { padding: 0 !important; }
+.add-password-row-group .password-type-drop-down {
+    border-radius: 0 !important;
+    padding: 19px 0 3px 0 !important;
+    border: none;
+    border-bottom: 1px solid #ebedf2;
+}
+.add-password-row-group .select2-dropdown { border-color: #ebedf2 !important; }
+
+/*** New form design ***/
+.zv-label-group .select2-container--default .select2-selection--single,
+.zv-label-group .select2-container--default .select2-selection--multiple {
+    border-bottom: 1px solid #efefef !important;
+    background: none !important;
+    margin-top: 0 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0 !important;
+}
+.field-control lyte-dropdown { max-width: 100% !important;}
+.lyteScrollBar { overflow: auto !important; scrollbar-width: none; }
+.lyteScrollBar::-webkit-scrollbar { width: 0; }
